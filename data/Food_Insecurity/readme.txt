@@ -1,7 +1,7 @@
 About the Food Insecurity Dataset
 The dataset_Food_Insecurity.csv file is an integrated and derived dataset built from the combination of IPVS, RAIS, and CAISAN data. The information was harmonized and aggregated at the district level for the municipality of São Paulo.
 Each row represents a district, identified by cod_dist and described by nome_area. The final dataset includes district-level indicators related to population, households, average household income, street markets, food establishments, and establishment densities per 10,000 inhabitants.
-To read dataset_Food_Insecurity.csv, use ; as the field separator and , as the decimal separator.
+To read dataset_Food_Insecurity.csv, use , as the field separator.
 Preserved Information
 The dataset retains consolidated district-level indicators, including:
 •	Number of households and inhabitants
